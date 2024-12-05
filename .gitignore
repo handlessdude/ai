@@ -1,1 +1,6 @@
 /venv/
+.idea
+*.tar.gz
+*.zip
+
+/lab-02/data
